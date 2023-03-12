@@ -1,0 +1,336 @@
+section.body-section {
+    background: #FFDE70;
+    margin-top: -95px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.better-text{
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-family: 'Marcellus', serif;
+}
+.banner-text p {
+    font-size: 40px;
+    text-align: justify;
+    font-weight: 400;
+    line-height: 52px;
+    letter-spacing: -2px;
+    font-family: 'Andada Pro', serif;
+}
+.fast-forward-section{
+    position: relative;
+}
+.fast-forward-area {
+    position: relative;
+    background: #7FD2F6;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    margin-top: -70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.fast-forward-text,
+.fast-forward-txt{
+    width: 50%;
+    height: auto;
+}
+.fast-forward-text {
+    padding-right: 80px;
+}
+.fast-forward-text p {
+    font-size: 21px;
+    padding-bottom: 65px;
+    font-weight: 500;
+    line-height: 26px;
+    font-family: 'Jost', sans-serif;
+}
+.fast-forward-txt p {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 38px;
+     padding-left: 30px;
+    line-height: 45px;
+    letter-spacing: -2px;
+    font-family: 'Andada Pro', serif;
+}
+.fast-forward-txt li {
+    background: #A4E2FD;
+    margin-top: 15px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 27px;
+    font-weight: 600;
+}
+span.left-image {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+}
+span.right-image {
+    position: absolute;
+    top: 30px;
+    left: auto;
+    right: 0;
+    z-index: -1;
+}
+span.right-aro-2-image {
+    position: absolute;
+    left: 66px;
+    bottom: -34px;
+}
+
+
+
+
+.create-natural{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.create-natural h2 {
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+    line-height: 41px;
+}
+
+
+
+.low-card-makes-sectiom{
+    position: relative;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background: #1473A0;
+}
+span.right-aro-2-image {
+    position: absolute;
+    left: 66px;
+    bottom: -34px;
+}
+span.aro-4 {
+    position: absolute;
+    top: -32px;
+    left: auto;
+    right: 18%;
+}
+.low-card-text h2 {
+    color: #fff;
+    font-size: 33px;
+    font-weight: 500;
+    font-family: 'Andada Pro', serif;
+}
+.low-card-text p {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 500;
+    font-family: 'Andada Pro', serif;
+}
+.carbo-image {
+    padding-top: 200px;
+}
+.carbo-image img {
+    max-width: 160px;
+    height: auto;
+}
+.carbo-image p {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-top: 20px;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}
+.carbo-image a{
+    color: #DCCE77;
+    padding-left: 3px;
+}
+.glucose-text {
+    padding-left: 55px;
+}
+.glucose-text p{
+    color: #fff;
+    font-size: 19px;
+    padding-bottom: 30px;
+    font-weight: 500;
+    font-family: 'Andada Pro', serif;
+}
+.glucose-image img{
+    max-width: 271px;
+    height: auto;
+}
+.glucose-image p {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding-top: 20px;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}
+.glucose-image a{
+    color: #DCCE77;
+    padding-left: 3px;
+}
+.carbs-your-body-text {
+    padding-top: 30px;
+}
+.carbs-your-body {
+    padding-top: 26px;
+}
+
+span.right-aro-3-image {
+    position: absolute;
+    left: 16%;
+    bottom: -34px;
+}
+.prodact-area-pad {
+    padding-top: 104px;
+}
+.prodact-area {
+    display: flex;
+}
+.pro-itmes {
+    display: flex;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+.pro-img {
+    margin-right: 12px;
+}
+.pro-img img{
+    margin-bottom: 45px;
+    margin-top: -19px;
+}
+.simbole-img img{
+    max-width: 66px;
+    height: auto;
+}
+.pro-text p{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 17px;
+    padding-right: 10px;
+    font-weight: 400;
+    font-family: 'Jost', sans-serif;
+}
+.pro-link-text a{
+    color: #DCCE77;
+    text-transform: uppercase;
+    font-size: 17px;
+    padding-left: 8px;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}
+
+.life-of-text h2 {
+    color: #1573A0;
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+    line-height: 41px;
+    padding-top: 60px;
+}
+.life-of-text{
+    position: relative;
+}
+.life-of-text p {
+    color: #1573A0;
+    font-size: 15px;
+    font-family: 'Font Awesome 6 Free';
+    padding-top: 83px;
+    font-weight: 400;
+    letter-spacing: 1.1px;
+    padding-bottom: 40px;
+}
+.life-of-text a{
+    color: #1573A0;
+    font-size: 15px;
+    font-weight: 400;
+    border: 2px solid #1573A0;
+    padding: 12px 30px;
+    letter-spacing: 1.1px;
+    font-family: 'Font Awesome 6 Free';
+}
+span.right-aro-33-image {
+    position: absolute;
+    left: auto;
+    top: 46%;
+    right: 27%;
+}
+
+
+/*==========our-experts-section=====*/
+.our-experts-area {
+    display: flex;
+    margin-bottom: 75px;
+}
+.our-experts-image {
+    width: 421px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 60%;
+    border: 3px dashed #82D3F6;
+}
+.our-experts-image img{
+    cursor: pointer;
+    border-radius: 60%;
+    transition: all 0.9s;
+}
+.our-experts-image img:hover{
+    transform: scale(1.5);
+}
+.our-experts-text p {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 11px;
+    color: #589CBB;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}
+.our-experts-title h2 {
+    text-align: center;
+    color: #589CBB; 
+    font-weight: 500;
+    padding-top: 53px;
+    padding-bottom: 40px;
+    font-family: 'Jost', sans-serif;
+}
+/*==========our-experts-section-The End====*/
+.letst-contant-section{
+    background: #7FD2F6;
+}
+.letst-contant-area {
+    width: 100%;
+    height: auto;
+    display: flex;
+
+}
+.letst-contant-item {
+    width: 20%;
+    height: auto;
+}
+.letst-contant-image img {
+    display: none;
+}
+.image-inear {
+    width: 243px;
+    height: 185px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.letst-contant-title {
+    padding: 50px 0px;
+    text-align: center;
+}
+.letst-contant-title h2 {
+    color: #fff;
+    font-size: 33px;
+    font-weight: 500;
+    font-family: 'Andada Pro', serif;
+}
+.letst-contant-title p{
+    font-size: 20px;
+    color: #1F7DA9; 
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}

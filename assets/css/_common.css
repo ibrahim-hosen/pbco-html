@@ -1,0 +1,37 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.container{
+	max-width: 1170px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.container2{
+	max-width: 1079px;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+li,a,ul,p{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+.font-color{
+	color: #1573A0;
+	font-size: 18px;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+}
+.contant-pad{
+	padding-left: 70px;
+}
+body{
+}

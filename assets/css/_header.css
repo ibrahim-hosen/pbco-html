@@ -1,0 +1,128 @@
+.free-phipping {
+    text-align: center;
+    background: #7FD2F6;
+    padding-top: 14px;
+    padding-bottom: 4px;
+}
+.free-phipping h2 {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #1573A0;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-family: 'Marcellus', serif;
+}
+/*==================Menu=========*/
+.header-area {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.menu-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-menu,
+.header-icon{
+    padding-top: 65px;
+}
+.nav-menu>ul>li {
+    display: inline-block;
+    position: relative;
+    padding-right: 25px;
+    padding-left: 15px;
+}
+.nav-menu ul li a{
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #1573A0;
+    font-weight: 500;
+    font-family: 'Jost', sans-serif;
+    transition: all 0.5s;
+}
+.nav-menu ul li a:hover{
+    color: #ff9800;
+}
+.nav-menu ul li:hover >a{
+    color: #ff9800;
+}
+.nav-menu>ul>li>ul{
+    position: absolute;
+    top: 24px;
+    background: #2196f3;
+    border-radius: 5px;
+    width: 133px;
+    padding: 5px 10px;
+    left: 0;
+    box-shadow: -1px 4px 8px rgb(64 65 66 / 41%);
+    opacity: 0;
+    overflow: hidden;
+    height: 0;
+    transform: scale3d(1, 0, 1);
+    transform-origin: top;
+    transition: all 0.5s;
+}
+.nav-menu>ul>li:hover ul{
+     opacity: 1;
+     transform: scale3d(1, 1, 1);
+     height: auto;
+}
+.nav-menu>ul>li>ul>li{
+    padding-bottom: 10PX;
+    display: block;
+    width: 100%;
+}
+.nav-menu>ul>li>ul>li>a{
+    color: #ffffff;
+    transition: 0.5s;
+}
+.nav-menu>ul>li>ul>li:hover a{
+    color: #000;
+}
+.header-logo {
+    padding-top: 28px;
+    padding-left: 28px;
+    padding-bottom: 15px;
+}
+.header-icon a i {
+    font-size: 28px;
+    color: #1573A0;
+    margin-left: 41px;
+    transition: all 0.5s;
+}
+.header-icon a i:hover{
+    color: #FFDE70;
+}
+.header-icon a.shopping-cart i{
+    color: #7FD2F6;
+    font-size: 26px;
+    margin-left: 27px;
+    transition: all 0.5s;
+}
+.header-icon a.shopping-cart i:hover{
+    color: #FFDE70;
+}
+a.shopping-cart {
+    position: relative;
+}
+.shopp-poin{
+    position: absolute;
+    background: #E85458;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    border-radius: 30px;
+    cursor: pointer;
+    top: -10px;
+    left: auto;
+    right: -7px;
+}
+span.shopp-poin p {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 700;
+    position: absolute;
+    top: -3px;
+    right: 5px;
+    left: auto;
+}
